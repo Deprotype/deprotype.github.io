@@ -1,6 +1,6 @@
 import { BROWSER_EXPERIMENT } from "../../N-of-1-Experimentation/modules/Experimentation/Browser_Output_Writer.js";
 import { alternatives, random_array_element, SET_SEED, text_input_experiment, Time_to_finish } from "../../N-of-1-Experimentation/modules/Experimentation/Experimentation.js";
-const SEED = "321";
+const SEED = "3212";
 SET_SEED(SEED);
 // Utility to randomly pick n unique elements from an array
 function random_letters(n) {
@@ -35,7 +35,7 @@ const experiment_configuration_function = (writer) => ({
         { variable: "Treatment", treatments: ["Static Type", "Dynamic Type"] },
         { variable: "Number_of_parameters", treatments: NUM_PARAMS_OPTIONS.map(String) }
     ],
-    repetitions: 2,
+    repetitions: 5,
     measurement: Time_to_finish(text_input_experiment),
     task_configuration: (task) => {
         var _a;

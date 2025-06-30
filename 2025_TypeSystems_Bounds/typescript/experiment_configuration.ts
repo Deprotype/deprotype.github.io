@@ -4,7 +4,7 @@ import {
 } from "../../N-of-1-Experimentation/modules/Experimentation/Experimentation.js";
 import { Task } from "../../N-of-1-Experimentation/modules/Experimentation/Task.js";
 
-const SEED = "321";
+const SEED = "3212";
 SET_SEED(SEED);
 
 // Utility to randomly pick n unique elements from an array

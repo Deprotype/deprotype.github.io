@@ -1,0 +1,17 @@
+"impression";Treatment;Number_of_parameters;number_of_given_answers;expected_answer;given_answer;is_correct;time_in_milliseconds;
+"Neutral";Dynamic Type;3;1;Map<Q, G, J>;Map<Q, G, J>;true;5504;
+"Neutral";Dynamic Type;4;1;Map<B, F, C, D>;Map<B, F, C, D>;true;6624;
+"Neutral";Dynamic Type;4;1;Map<X, W, C, M>;Map<X, W, C, M>;true;9928;
+"Neutral";Static Type;3;1;Map<L, O, A>;Map<L, O, A>;true;5304;
+"Neutral";Static Type;4;1;Map<L, M, F, P>;Map<L, M, F, P>;true;4577;
+"Neutral";Dynamic Type;2;1;Map<L, N>;Map<L, N>;true;3968;
+"Neutral";Dynamic Type;5;1;Map<Z, P, L, X, T>;Map<Z, P, L, X, T>;true;10312;
+"Neutral";Dynamic Type;2;1;Map<V, K>;Map<V, K>;true;3471;
+"Neutral";Static Type;5;1;Map<H, F, T, S, Z>;Map<H, F, T, S, Z>;true;6657;
+"Neutral";Static Type;3;1;Map<O, B, W>;Map<O, B, W>;true;4040;
+"Neutral";Dynamic Type;3;1;Map<U, W, M>;Map<U, W, M>;true;6432;
+"Neutral";Dynamic Type;5;1;Map<U, F, N, X, B>;Map<U, F, N, X, B>;true;7352;
+"Neutral";Static Type;4;1;Map<K, Y, X, H>;Map<K, Y, X, H>;true;5048;
+"Neutral";Static Type;2;1;Map<R, V>;Map<R, V>;true;2800;
+"Neutral";Static Type;2;1;Map<C, X>;Map<C, X>;true;3144;
+"Neutral";Static Type;5;1;Map<H, I, Q, R, G>;Map<H, I, Q, R, G>;true;5880;
