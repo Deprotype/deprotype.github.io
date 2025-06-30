@@ -1,0 +1,3 @@
+PS D:\Uni\Master\Experiments\N-of-1-Experimentation> npx tsc --project tsconfig.json
+
+PS D:\Uni\Master\Experiments\N-of-1-Experimentation> npx tsc
